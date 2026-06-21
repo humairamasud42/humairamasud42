@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **humairamasud42/humairamasud42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+# Hi there✨, I'm Humaira Masud
+
+### I build AI-driven solutions and intelligent automation systems.
+
+</div>
+
+</div>
